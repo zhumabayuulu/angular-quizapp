@@ -1,0 +1,14 @@
+li{
+    cursor: pointer;
+    transition: background .5s ease;
+    &:hover{
+        background: #3fe23f;
+    }
+}
+.example-card {
+    max-width: 400px;
+    height: 200px;
+  }
+  
+  
+  

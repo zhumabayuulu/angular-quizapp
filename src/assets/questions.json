@@ -1,0 +1,190 @@
+{
+    "question": [
+        {
+            "questionText": "Which currency does Kyrgyzstan use today?",
+            "options": [
+                {
+                    "text": "Kyrgyzstani Som",
+                    "correct": true
+                },
+                {
+                    "text": "saudi riyal"
+                },
+                {
+                    "text": "Italian Somaliland Somalo"
+                },
+                {
+                    "text": "Fribourg Frank"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the founding date of Kyrgyzstan?",
+            "options": [
+                {
+                    "text": "1991",
+                    "correct": true
+                },
+                {
+                    "text": "2001"
+                },
+                {
+                    "text": "1993"
+                },
+                {
+                    "text": "1983"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the capital city of Kyrgyzstan?",
+            "options": [
+                {
+                    "text": "osh"
+                    
+                },
+                {
+                    "text": "Bishkek",
+                    "correct": true
+                },
+                {
+                    "text": "Jalal-Abad"
+                },
+                {
+                    "text": "Karakol"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the name of the highest point in Kyrgyzstan, which is above sea level?",
+            "options": [
+                {
+                    "text": "Kyrgyz Alatou"
+                    
+                },
+                {
+                    "text": "Jengish Chokusu",
+                    "correct": true
+                },
+                {
+                    "text": "Talas Alatau"
+                },
+                {
+                    "text": "Sulaiman-Too"
+                }
+            ]
+        },
+        {
+            "questionText": "Kyrgyzstan's lowest point is the Kara Darya.Can you tell what the elevation is?",
+            "options": [
+                {
+                    "text": "143 metres"
+                    
+                },
+                {
+                    "text": "140 metres"
+                },
+                {
+                    "text": "129 metres"
+                },
+                {
+                    "text": "132 metres",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "In 2009 the population of Kyrgyzstan, was 5,362,800.Can you guess what the population was in 2021?",
+            "options": [
+                {
+                    "text": "7,363,620"
+                    
+                },
+                {
+                    "text": "6,694,200",
+                    "correct": true
+                },
+                {
+                    "text": "9,840,474"
+                },
+                {
+                    "text": "7,430,562"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the timezone of Kyrgyzstan?",
+            "options": [
+                {
+                    "text": "UTC+06:00",
+                    "correct": true
+                },
+                {
+                    "text": "UTC+10:30"
+                },
+                {
+                    "text": "UTC−11:20"
+                },
+                {
+                    "text": "UTC+08:00"
+                }
+            ]
+        },
+        {
+            "questionText": "What is Kyrgyzstan's Internet top-level domain extension?",
+            "options": [
+                {
+                    "text": ".kg",
+                    "correct": true
+                },
+                {
+                    "text": ".ug"
+                },
+                {
+                    "text": ".am"
+                },
+                {
+                    "text": ".hr"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following are official languages of Kyrgyzstan?",
+            "options": [
+                {
+                    "text": "Armenian"
+                    
+                },
+                {
+                    "text": "Kyrgyz",
+                    "correct": true
+                },
+                {
+                    "text": "Persian"
+                },
+                {
+                    "text": "Russian"
+                }
+            ]
+        },
+        {
+            "questionText": "How old do you have to be to get married in Kyrgyzstan?",
+            "options": [
+                {
+                    "text": "20"
+                    
+                },
+                {
+                    "text": "18",
+                    "correct": true
+                },
+                {
+                    "text": "21"
+                },
+                {
+                    "text": "25"
+                }
+            ]
+        }
+    ]
+}
